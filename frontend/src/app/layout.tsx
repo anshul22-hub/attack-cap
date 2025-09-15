@@ -30,11 +30,6 @@ export default function RootLayout({
                     LiveKit + LLM
                   </span>
                 </div>
-                <div className="flex items-center space-x-4">
-                  <div className="text-sm text-gray-500">
-                    Attack Capital Assignment
-                  </div>
-                </div>
               </div>
             </div>
           </header>
